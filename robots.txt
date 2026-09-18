@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://toursguide.github.io/nepal-in-september/
 
 # Google Bot
 User-agent: Googlebot
